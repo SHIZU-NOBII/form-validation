@@ -138,7 +138,7 @@ body{
 
 @media screen and (max-width: 998px){
     .container{
-        width: calc(100vw - 35vw);
+        width: 100vw;
         max-width: 100%;
     }
 }
